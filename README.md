@@ -36,3 +36,4 @@ Electronics engineer bridging bare-metal precision with modern connectivity. I f
 ### 📫 Connect with Me
 
 * **LinkedIn:** [Daniel Carrillo](https://www.linkedin.com/in/daniel-carrillo-dev/)
+* **Email**  [Juandanielpe6@gmail.com]
