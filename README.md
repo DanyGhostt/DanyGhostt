@@ -37,3 +37,5 @@ Electronics engineer bridging bare-metal precision with modern connectivity. I f
 
 * **LinkedIn:** [Daniel Carrillo](https://www.linkedin.com/in/daniel-carrillo-dev/)
 * **Email**  [Juandanielpe6@gmail.com]
+* **Web Page** https://danimbdded.vercel.app/
+  
